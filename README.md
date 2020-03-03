@@ -1,0 +1,2 @@
+# unbreakable
+null execption handle
